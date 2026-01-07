@@ -1,4 +1,4 @@
-﻿#Requires AutoHotkey v1.1.0+
+﻿#Requires AutoHotkey v1.1.31+
 ;==============================================================
 ; setScrollLockStateEx — Sets ScrollLock state with optional current-state checks and Always modes
 ;
