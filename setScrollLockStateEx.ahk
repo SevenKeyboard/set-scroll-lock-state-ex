@@ -21,7 +21,7 @@ setScrollLockStateEx(onoff:="", checkCurrentState:=true)    {
     switch (onoff)
     {
         case "":
-            setCapsLockState
+            setScrollLockState
         case "On",true:
             if (checkCurrentState && getKeyState("ScrollLock","T"))
                 goto Cleanup_F39D2FDF
