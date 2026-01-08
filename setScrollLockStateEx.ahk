@@ -5,6 +5,10 @@
 ; GitHub: https://github.com/SevenKeyboard/set-scroll-lock-state-ex
 ; Author: SevenKeyboard Ltd. (2026)
 ; License: The Unlicense
+;
+; Documentation / References:
+;   Re: [V2] Overwrite ahk functions???
+;     https://www.autohotkey.com/boards/viewtopic.php?t=123630#p549610
 ;==============================================================
 class VersionManager_setScrollLockStateEx
 {
